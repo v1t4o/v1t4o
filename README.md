@@ -1,8 +1,3 @@
-<h1 align="center">Oi 👋, me chamo Victor</h1>
-<h3 align="center">Sou estagiário em Desenvolvimento Web na FFLCH/USP</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=v1t4o&label=Profile%20views&color=0e75b6&style=flat" alt="v1t4o" /> </p>
-
 <h3 align="left">Redes:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vomarinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vomarinho" height="30" width="40" /></a>
